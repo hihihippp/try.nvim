@@ -1,6 +1,9 @@
 # try.nvim
+## for learning and testing
 
-try.nvim is repository that contains various example self-contained neovim containers. The goal of try.nvim is to improve bug reports related to system environment, neovim build issues, and user configuration, as well as to serve as a fast entrypoint to what the neovim experience should resemble when things are functioning.
+use this for beginner of neovim a start point: just use it immediatelly.
+the IDE configureed neovim is the very cool, but the process of configuration is almost impossible for beginer user of neovim.
+this project can be a proper start point of neovim user, especiallly for the vscode user.
 
 ### Quickstart
 
