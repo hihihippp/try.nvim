@@ -11,7 +11,7 @@ on:
   workflow_dispatch:
 
 env:
-  REGISTRY_USER: nvim-lsp+marvim
+  REGISTRY_USER: neovim_versioned_container+neovim_box 
   IMAGE_REGISTRY: quay.io
   REGISTRY_PASSWORD: ${{ secrets.REGISTRY_PASSWORD }}
 
