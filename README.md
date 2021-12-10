@@ -2,7 +2,7 @@
 ## for learning and testing
 
 use this for beginner of neovim a start point: just use it immediatelly.
-the IDE configureed neovim is the very cool, but the process of configuration is almost impossible for beginer user of neovim.
+the IDE configureed neovim is very cool, but the process of configuration is almost impossible for beginer user of neovim.
 this project can be a proper start point of neovim user, especiallly for the vscode user.
 
 ### Quickstart
